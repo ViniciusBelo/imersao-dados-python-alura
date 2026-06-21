@@ -102,12 +102,12 @@ O projeto busca responder perguntas como:
 ## ⚙️ Como Executar o Projeto
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ViniciusBelo/imersao-dados-python-alura.git
 ```
 
 2. Entre na pasta do projeto
 ```bash
-cd nome-do-repositorio
+cd imersao-dados-python-alura
 ```
 
 3. Instale as dependências
